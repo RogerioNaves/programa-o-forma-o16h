@@ -1,6 +1,5 @@
-style.css
 body{
-    background; color: #000;
+    background-color:;
     font-size: 25px;
     color:blue;
     text-align: left;
@@ -9,8 +8,17 @@ body{
 
 h1{
 color: #000;
-font-size: 25px;
-color:blue;
-text-align: left;
+font-size: 40px;
+text-align: center;
 
 }
+p3{
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+    }
+
+p5{
+    color: #000;
+    font-size: 30px;
+    }
