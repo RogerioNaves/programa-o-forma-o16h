@@ -41,7 +41,6 @@ p5 {
 }
 
 .titulo {
-    background-color: cadetblue;
     font-size: 30px;
     font-style: #000;
     padding: 10px;
@@ -51,5 +50,9 @@ p5 {
 ul {
     display: inline-block;
     vertical-align: text-bottom;
-    margin-left: 10%;
+    vertical-align: top;
+    margin-left: 5%;
+}
+.itens {
+    width: 50%;
 }
